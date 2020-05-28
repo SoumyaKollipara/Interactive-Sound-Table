@@ -1,1 +1,2 @@
 # Interactive-Sound-Table
+Interactive Sound Table is a hybrid musical instrument. It allows the user to play the tones of different musical instruments  on a single table, thus the name. The project involves a table over which the user can move multiple blocks. Each block represents a musical instrument. Different tones can be heard for different positions of blocks. The tones produced by all the blocks mix together and form a nice rythme.
